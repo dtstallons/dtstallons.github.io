@@ -1,11 +1,11 @@
 # Site settings
 author: Dean Stallons
-title: 
+title: Dean's Data Science Journey
 header-img: img/home-bg.png
 email: dtstallons@gmail.com
 copyright_name: Dean Stallons
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My internal narrative while going through the data science program
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  dtstallons
